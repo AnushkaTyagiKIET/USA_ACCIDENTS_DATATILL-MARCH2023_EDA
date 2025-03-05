@@ -49,15 +49,6 @@ The dataset contains accident records from multiple states and includes:
    python -m venv env
    source env/bin/activate  # On Windows: env\Scripts\activate
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-   Open and execute `US_Accidents_EDA.ipynb` to explore the dataset.
 
 ## Results & Visualizations
 - Bar charts, line graphs, and heatmaps for accident distribution analysis.
